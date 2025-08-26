@@ -12,3 +12,5 @@ Lecture-10/average_solution.py
 Lecture-10/get_ratios_solution.py
 Lecture-10/list_solution.py
 Lecture-10/primes_solution.py
+.venv
+.env
